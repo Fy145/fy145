@@ -56,3 +56,7 @@ Curieux et rigoureux, je cherche constamment à améliorer mes compétences et �
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="filter: brightness(0) invert(1);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
+
+## 📫 Contact
+
+- 📧 Email : fidelemanalintsoa@gmail.com
