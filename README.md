@@ -53,6 +53,6 @@ Curieux et rigoureux, je cherche constamment à améliorer mes compétences et �
 <p>
   📧 Email : <a href="mailto:fidelemanalintsoa@gmail.com">fidelemanalintsoa@gmail.com</a><br>
   💻 GitHub : <a href="https://github.com/Fy145">Fy145</a><br>
-  🔗 LinkedIn : <a href="https://linkedin.com/in/Fy145">Fy145</a><br>
-  📘 Facebook : <a href="https://facebook.com/manalintsoaDeleAly">Manalintsoa Dele Aly</a>
+  🔗 LinkedIn : <a href="https://linkedin.com/in/Fidele Manalintsoa">Fidele Manalintsoa</a><br>
+  📘 Facebook : <a href="https://facebook.com/Manalintsoa Dele Aly">Manalintsoa Dele Aly</a>
 </p>
