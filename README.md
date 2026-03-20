@@ -51,10 +51,15 @@ Curieux et rigoureux, je cherche constamment à améliorer mes compétences et �
 </p>
 
 ### 🔧 Outils
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="filter: brightness(0) invert(1);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+<p align="left" style="display:flex; gap:20px">
+  <!-- Git -->
+  <img src="https://cdn.simpleicons.org/git/F05032" width="40"/>
+
+  <!-- GitHub (blanc parfait) -->
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="40"/>
+
+  <!-- VS Code -->
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
 
 ## 📫 Contact
