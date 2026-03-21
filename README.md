@@ -52,7 +52,7 @@ Curieux et rigoureux, je cherche constamment à améliorer mes compétences et �
 
 <p>
   
-  🔗 Portfolio : <a href="https://fy145.github.io/Personal-Portfolio/">Personal Portfolio/a><br>
+  🔗 Portfolio : <a href="https://fy145.github.io/Personal-Portfolio/">Personal Portfolio</a><br>
   📧 Email : <a href="mailto:fidelemanalintsoa@gmail.com">fidelemanalintsoa@gmail.com</a><br>
   💻 GitHub : <a href="https://github.com/Fy145">Fy145</a><br>
   🔗 LinkedIn : <a href="https://linkedin.com/in/Fidele Manalintsoa">Fidele Manalintsoa</a><br>
